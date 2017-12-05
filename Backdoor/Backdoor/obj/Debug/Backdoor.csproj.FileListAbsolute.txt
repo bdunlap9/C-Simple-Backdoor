@@ -1,0 +1,6 @@
+C:\Users\Weeke\Documents\Visual Studio 2017\Projects\Backdoor\Backdoor\bin\Debug\Backdoor.exe.config
+C:\Users\Weeke\Documents\Visual Studio 2017\Projects\Backdoor\Backdoor\bin\Debug\Backdoor.exe
+C:\Users\Weeke\Documents\Visual Studio 2017\Projects\Backdoor\Backdoor\bin\Debug\Backdoor.pdb
+C:\Users\Weeke\Documents\Visual Studio 2017\Projects\Backdoor\Backdoor\obj\Debug\Backdoor.csprojResolveAssemblyReference.cache
+C:\Users\Weeke\Documents\Visual Studio 2017\Projects\Backdoor\Backdoor\obj\Debug\Backdoor.exe
+C:\Users\Weeke\Documents\Visual Studio 2017\Projects\Backdoor\Backdoor\obj\Debug\Backdoor.pdb
